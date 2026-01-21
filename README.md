@@ -19,3 +19,7 @@ A classic 2D arcade game inspired by Space Invader made with Python and pygame, 
    pip install pygame
 2. Run:
    python main.py
+
+   zybooks assignment:
+<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/18aad615-9b4a-49dd-81ca-eb97a438437e" />
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/b16a7f4a-7aef-452c-b6cb-c2f31a81fe8e" />
